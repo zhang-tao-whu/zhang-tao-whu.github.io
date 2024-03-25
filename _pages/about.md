@@ -57,7 +57,7 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 # 🎖 Honors and Awards
 - *2023.08* Winner of the VIS Track of the 5th LSVOS challenge at ICCV 2023. 
 - *2023.05* Winner of the VPS Track of the PVUW challenge at CVPR 2023.
-- Conference Reviewer for CVPR 2023, ICCV 2023, ECCV 2024 and Journal Reviewer For IEEE-TCSVT and IEEE-TGRS.
+- Conference Reviewer for CVPR 2023, ICCV 2023, CVPR 2024, ECCV 2024 and Journal Reviewer For IEEE-TCSVT and IEEE-TGRS.
 
 # 📖 Educations
 - *2023.09 - now*, PhD in Wuhan University. 
