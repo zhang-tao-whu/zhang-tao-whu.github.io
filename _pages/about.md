@@ -42,27 +42,27 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 ## Main Publications:
 
 <li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
-     <strong>Tao Zhang</strong>, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
+     <strong>Tao Zhang</strong>, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan,
       <strong>NeurIPS 2024 </strong> | <a href="https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2403.00762">Point Could Mamba: Point Cloud Learning via State Space Model</a>,  
-     <strong>Tao Zhang</strong>, Haobo Yuan, Lu Qi, Jiangning Zhang, Qianyu Zhou, Shunping Ji, Shuicheng Yan, Xiangtai Li
+     <strong>Tao Zhang</strong>, Haobo Yuan, Lu Qi, Jiangning Zhang, Qianyu Zhou, Shunping Ji, Shuicheng Yan, Xiangtai Li,
       <strong>AAAI 2025 </strong> | <a href="https://github.com/zhang-tao-whu/PCM">Code</a> </li>
 
 <li><a href="https://arxiv.org/pdf/2404.00086">Improving Video Segmentation via Dynamic Anchor Queries</a>,  
-     Yikang Zhou*, <strong>Tao Zhang*</strong>, Shunping Ji, Shuicheng Yan, Xiangtai Li
+     Yikang Zhou*, <strong>Tao Zhang*</strong>, Shunping Ji, Shuicheng Yan, Xiangtai Li,
       <strong>ECCV 2024 </strong> | <a href="https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_DAQ">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2312.13305">DVIS++: Improved Decoupled Framework for Universal Video Segmentation</a>,  
-     <strong>Tao Zhang</strong>, Xingye Tian, Yikang Zhou, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu Wu
+     <strong>Tao Zhang</strong>, Xingye Tian, Yikang Zhou, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu Wu,
       <strong>arxiv </strong> | <a href="https://github.com/zhang-tao-whu/DVIS_Plus">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2306.03413">DVIS: Decoupled Video Instance Segmentation Framework</a>,  
-     <strong>Tao Zhang</strong>, Xingye Tian, Yu Wu, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan
+     <strong>Tao Zhang</strong>, Xingye Tian, Yu Wu, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan,
       <strong>ICCV 2023 </strong> | <a href="https://github.com/zhang-tao-whu/DVIS">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2203.04074">E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation</a>,  
-     <strong>Tao Zhang</strong>, Shiqing Wei, Shunping Ji
+     <strong>Tao Zhang</strong>, Shiqing Wei, Shunping Ji,
       <strong>CVPR 2022 </strong> | <a href="https://github.com/zhang-tao-whu/e2ec">Code</a> </li>
 
 # 🎖 Honors and Awards
