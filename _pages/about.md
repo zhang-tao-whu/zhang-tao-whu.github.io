@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Tao Zhang (张韬)**, currently a PhD student at Wuhan University, under the guidance of Prof. [Shunping Ji](https://scholar.google.com/citations?user=FjoRmF4AAAAJ&hl=zh-CN) and Prof. [Yu Wu](https://scholar.google.com/citations?user=23SZHUwAAAAJ&hl=zh-CN). Additionally, I am currently interning at Skywork AI, where I am advised by Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) and Prof. [Shuicheng Yan](https://scholar.google.com/citations?hl=zh-CN&user=DNuiPHwAAAAJ&view_op=list_works&sortby=pubdate). Prior to this, I completed internships at the Y-Tech Lab of Kuaishou Technology. I obtained my master's degree from Wuhan University under the supervision of Prof. [Shunping Ji](https://scholar.google.com/citations?user=FjoRmF4AAAAJ&hl=zh-CN).
+I am **Tao Zhang (张韬)**, currently a PhD student at Wuhan University, under the guidance of Prof. [Shunping Ji](https://scholar.google.com/citations?user=FjoRmF4AAAAJ&hl=zh-CN). Additionally, I am currently interning at Seed, ByteDance, where I am advised by Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) and Dr. [Jiashi Feng](https://scholar.google.com.sg/citations?user=Q8iay0gAAAAJ&hl=en). Prior to this, I completed internships at the Y-Tech Lab of Kuaishou Technology (advised by Xingye Tian) and Skywork AI (advised by Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) and Prof. [ShuiCheng YAN](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=en)). I obtained my master's degree from Wuhan University under the supervision of Prof. [Shunping Ji](https://scholar.google.com/citations?user=FjoRmF4AAAAJ&hl=zh-CN).
 
 My research interests encompass:
 
@@ -26,6 +26,8 @@ My research interests encompass:
 3. Remote Sensing.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 PCM is accepted by AAAI 2025. 
+- *2024.06*: &nbsp;🎉🎉 OMG-LLaVA is accepted by NeurIPS 2024. 
 - *2023.08*: &nbsp;🎉🎉 We achieve 1st place in the VIS Track of the 5th LSVOS challenge at ICCV 2023. 
 - *2023.07*: &nbsp;🎉🎉 DVIS is accepted by ICCV 2023. 
 - *2023.05*: &nbsp;🎉🎉 We achieve 1st place in the VPS Track of the PVUW challenge at CVPR 2023.
@@ -38,9 +40,13 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 
 ## Main Publications:
 
+<li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
+     <strong>Tao Zhang</strong>, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan
+      <strong>NeurIPS 2024 </strong> | <a href="https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava">Code</a> </li>
+
 <li><a href="https://arxiv.org/abs/2403.00762">Point Could Mamba: Point Cloud Learning via State Space Model</a>,  
-     <strong>Tao Zhang</strong>, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
-      <strong>arxiv </strong> | <a href="https://github.com/zhang-tao-whu/PCM">Code</a> </li>
+     <strong>Tao Zhang</strong>, Haobo Yuan, Lu Qi, Jiangning Zhang, Qianyu Zhou, Shunping Ji, Shuicheng Yan, Xiangtai Li
+      <strong>AAAI 2025 </strong> | <a href="https://github.com/zhang-tao-whu/PCM">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2312.13305">DVIS++: Improved Decoupled Framework for Universal Video Segmentation</a>,  
      <strong>Tao Zhang</strong>, Xingye Tian, Yikang Zhou, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu Wu
@@ -57,7 +63,7 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 # 🎖 Honors and Awards
 - *2023.08* Winner of the VIS Track of the 5th LSVOS challenge at ICCV 2023. 
 - *2023.05* Winner of the VPS Track of the PVUW challenge at CVPR 2023.
-- Conference Reviewer for CVPR 2023, ICCV 2023, CVPR 2024, ECCV 2024 and Journal Reviewer For IEEE-TCSVT and IEEE-TGRS.
+- Conference Reviewer for ICML 2025, CVPR 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, CVPR 2024, ECCV 2024, CVPR 2023, ICCV 2023 and Journal Reviewer For IEEE-TCSVT and IEEE-TGRS.
 
 # 📖 Educations
 - *2023.09 - now*, PhD in Wuhan University. 
@@ -67,4 +73,5 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 
 # 💻 Internships
 - *2022.01 - 2024.02*, Y-Tech Lab of Kuaishou technology, China.
-- *2024.02 - now*, Skywork AI, Singapore.
+- *2024.02 - 2024.06*, Skywork AI, Singapore.
+- *2024.09 - now*, Seed, ByteDance, China.
