@@ -28,6 +28,7 @@ My research interests encompass:
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 PCM is accepted by AAAI 2025. 
 - *2024.06*: &nbsp;🎉🎉 OMG-LLaVA is accepted by NeurIPS 2024. 
+- *2024.04*: &nbsp;🎉🎉 DVIS-DAQ is accepted by ECCV 2024. 
 - *2023.08*: &nbsp;🎉🎉 We achieve 1st place in the VIS Track of the 5th LSVOS challenge at ICCV 2023. 
 - *2023.07*: &nbsp;🎉🎉 DVIS is accepted by ICCV 2023. 
 - *2023.05*: &nbsp;🎉🎉 We achieve 1st place in the VPS Track of the PVUW challenge at CVPR 2023.
@@ -47,6 +48,10 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 <li><a href="https://arxiv.org/abs/2403.00762">Point Could Mamba: Point Cloud Learning via State Space Model</a>,  
      <strong>Tao Zhang</strong>, Haobo Yuan, Lu Qi, Jiangning Zhang, Qianyu Zhou, Shunping Ji, Shuicheng Yan, Xiangtai Li
       <strong>AAAI 2025 </strong> | <a href="https://github.com/zhang-tao-whu/PCM">Code</a> </li>
+
+<li><a href="https://arxiv.org/pdf/2404.00086">Improving Video Segmentation via Dynamic Anchor Queries</a>,  
+     Yikang Zhou*, <strong>Tao Zhang*</strong>, Shunping Ji, Shuicheng Yan, Xiangtai Li
+      <strong>ECCV 2024 </strong> | <a href="https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_DAQ">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2312.13305">DVIS++: Improved Decoupled Framework for Universal Video Segmentation</a>,  
      <strong>Tao Zhang</strong>, Xingye Tian, Yikang Zhou, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu Wu
