@@ -26,6 +26,7 @@ My research interests encompass:
 3. Remote Sensing.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 DVIS++ is accepted by TPAMI 2025. 
 - *2024.12*: &nbsp;🎉🎉 PCM is accepted by AAAI 2025. 
 - *2024.06*: &nbsp;🎉🎉 OMG-LLaVA is accepted by NeurIPS 2024. 
 - *2024.04*: &nbsp;🎉🎉 DVIS-DAQ is accepted by ECCV 2024. 
@@ -41,6 +42,14 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 
 ## Main Publications:
 
+<li><a href="https://arxiv.org/abs/2501.04001">Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</a>,  
+     Haobo Yuan*, Xiangtai Li*, <strong>Tao Zhang*</strong>, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang,
+      <strong>Arxiv </strong> | <a href="https://lxtgh.github.io/project/sa2va/">Code</a> </li>
+
+<li><a href="https://arxiv.org/abs/2501.04670">Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs</a>,  
+     Yikang Zhou*, <strong>Tao Zhang*</strong>, Shilin Xu, Shihao Chen, Qianyu Zhou, Yunhai Tong, Shunping Ji, Jiangning Zhang, Xiangtai Li, Lu Qi,
+      <strong>Arxiv </strong> | <a href="https://zhouyiks.github.io/projects/CoLVA/">Code</a> </li>
+
 <li><a href="https://arxiv.org/abs/2406.19389">OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding</a>,  
      <strong>Tao Zhang</strong>, Xiangtai Li, Hao Fei, Haobo Yuan, Shengqiong Wu, Shunping Ji, Chen Change Loy, Shuicheng Yan,
       <strong>NeurIPS 2024 </strong> | <a href="https://github.com/lxtGH/OMG-Seg/tree/main/omg_llava">Code</a> </li>
@@ -55,7 +64,7 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 
 <li><a href="https://arxiv.org/abs/2312.13305">DVIS++: Improved Decoupled Framework for Universal Video Segmentation</a>,  
      <strong>Tao Zhang</strong>, Xingye Tian, Yikang Zhou, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu Wu,
-      <strong>arxiv </strong> | <a href="https://github.com/zhang-tao-whu/DVIS_Plus">Code</a> </li>
+      <strong>TPAMI 2025 </strong> | <a href="https://github.com/zhang-tao-whu/DVIS_Plus">Code</a> </li>
 
 <li><a href="https://arxiv.org/abs/2306.03413">DVIS: Decoupled Video Instance Segmentation Framework</a>,  
      <strong>Tao Zhang</strong>, Xingye Tian, Yu Wu, Shunping Ji, Xuebo Wang, Yuan Zhang, Pengfei Wan,
@@ -68,7 +77,7 @@ Code can be found in [github](https://github.com/zhang-tao-whu).
 # 🎖 Honors and Awards
 - *2023.08* Winner of the VIS Track of the 5th LSVOS challenge at ICCV 2023. 
 - *2023.05* Winner of the VPS Track of the PVUW challenge at CVPR 2023.
-- Conference Reviewer for ICML 2025, CVPR 2025, ICLR 2025, AAAI 2025, NeurIPS 2024, CVPR 2024, ECCV 2024, CVPR 2023, ICCV 2023 and Journal Reviewer For IEEE-TCSVT and IEEE-TGRS.
+- Conference Reviewer for CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, and Journal Reviewer For IEEE-TCSVT and IEEE-TGRS.
 
 # 📖 Educations
 - *2023.09 - now*, PhD in Wuhan University. 
